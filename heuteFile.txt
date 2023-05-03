@@ -1,1 +1,2 @@
-Ich will heute mit Python beginnen
+Ich will heute mit Python beginnen.
+ich will mit der Besprechung beginnen, haben Sie Zeit dazu?
